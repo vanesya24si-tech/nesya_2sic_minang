@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&family=Quicksand:wght@400;600&display=swap');
+
+:root {
+  --pink-pastel: #ffc8dd;
+  --purple-pastel: #cdb4db;
+  --blue-sky: #a2d2ff;
+  --text-primary: #5c5470;
+}
+
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.main-viewport {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #fef9fb 0%, #eef5ff 100%);
+  padding: 20px;
+}
+
+.main-portfolio-card {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(15px);
+  width: 100%;
+  max-width: 400px;
+  border-radius: 45px;
+  padding: 40px;
+  box-shadow: 0 25px 50px rgba(255, 182, 193, 0.25);
+  border: 4px solid white;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.main-portfolio-card:hover {
+  transform: translateY(-5px);
+}
+
+/* Header Badge */
+.class-badge {
+  background: white;
+  display: inline-block;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: #ff758f;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  margin-bottom: 10px;
+}
+
+.main-logo {
+  font-family: 'Fredoka', sans-serif;
+  font-size: 1.4rem;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+/* Profile Photo */
+.photo-wrapper {
+  position: relative;
+  margin: 30px 0;
+}
+
+.photo-border {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  padding: 6px;
+  background: linear-gradient(to right, var(--pink-pastel), var(--purple-pastel));
+  margin: 0 auto;
+}
+
+.avatar {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid white;
+}
+
+.status-online {
+  width: 25px;
+  height: 25px;
+  background: #57cc99;
+  border: 4px solid white;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 10px;
+  right: 120px; /* Sesuaikan agar di samping foto */
+}
+
+/* Typography */
+.user-name {
+  font-family: 'Fredoka', sans-serif;
+  font-size: 2rem;
+  color: #333;
+  margin: 0;
+}
+
+.campus-info {
+  color: #888;
+  letter-spacing: 1.5px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.glass-card-content {
+  background: white;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 25px 0;
+  text-align: left;
+  border: 1px solid #f0f0f0;
+}
+
+.section-title {
+  font-family: 'Fredoka', sans-serif;
+  font-size: 1rem;
+  color: #ff758f;
+  margin-bottom: 8px;
+}
+
+/* Skills */
+.pill-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.skill-pill {
+  background: var(--blue-sky);
+  color: white;
+  padding: 6px 15px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.skill-pill:hover {
+  background: var(--purple-pastel);
+  transform: scale(1.1);
+}
+
+/* Footer & Button */
+.contact-btn {
+  width: 100%;
+  background: linear-gradient(45deg, #ffafcc, #ff80ab);
+  border: none;
+  padding: 15px;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Quicksand', sans-serif;
+  cursor: pointer;
+  margin-top: 10px;
+  box-shadow: 0 10px 20px rgba(255, 128, 171, 0.3);
+}
+
+.copyright {
+  font-size: 0.7rem;
+  color: #bbb;
+  margin-top: 20px;
+}
