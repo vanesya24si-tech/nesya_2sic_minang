@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Responsivedesign from "./pertemuan_4/Responsivedesign";
-import "./pertemuan_4/tailwind.css";
+import ResponsiveDesign from "./Responsivedesign";
+import "./tailwind.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <Responsivedesign />
+    <ResponsiveDesign />
   </React.StrictMode>
 );

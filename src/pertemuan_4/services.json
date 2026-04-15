@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Web Development React",
+    "category": "IT",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400",
+    "provider": { "location": "Jakarta" }
+  },
+  {
+    "id": 2,
+    "name": "Logo Design Minimalist",
+    "category": "Design",
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=400",
+    "provider": { "location": "Bandung" }
+  },
+  {
+    "id": 3,
+    "name": "Social Media Marketing",
+    "category": "Marketing",
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400",
+    "provider": { "location": "Surabaya" }
+  },
+  {
+    "id": 4,
+    "name": "Mobile App Development",
+    "category": "IT",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400",
+    "provider": { "location": "Jakarta" }
+  },
+  {
+    "id": 5,
+    "name": "UI/UX Design for Startup",
+    "category": "Design",
+    "image": "https://images.unsplash.com/photo-1586717791821-3f44a563eb4c?w=400",
+    "provider": { "location": "Jakarta" }
+  },
+  {
+    "id": 6,
+    "name": "SEO Optimization Expert",
+    "category": "Marketing",
+    "image": "https://images.unsplash.com/photo-1571721795195-a2ca2d3370a9?w=400",
+    "provider": { "location": "Bandung" }
+  },
+  {
+    "id": 7,
+    "name": "Backend System (Node.js)",
+    "category": "IT",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400",
+    "provider": { "location": "Surabaya" }
+  },
+  {
+    "id": 8,
+    "name": "Ilustrasi Digital Custom",
+    "category": "Design",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400",
+    "provider": { "location": "Bandung" }
+  },
+  {
+    "id": 9,
+    "name": "Google Ads Campaign",
+    "category": "Marketing",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400",
+    "provider": { "location": "Jakarta" }
+  },
+  {
+    "id": 10,
+    "name": "Quality Assurance Testing",
+    "category": "IT",
+    "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=400",
+    "provider": { "location": "Surabaya" }
+  },
+  {
+    "id": 11,
+    "name": "Video Editor YouTube",
+    "category": "Design",
+    "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=400",
+    "provider": { "location": "Jakarta" }
+  },
+  {
+    "id": 12,
+    "name": "Content Creator & Copywriter",
+    "category": "Marketing",
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=400",
+    "provider": { "location": "Bandung" }
+  },
+  {
+    "id": 13,
+    "name": "Cyber Security Consultant",
+    "category": "IT",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400",
+    "provider": { "location": "Jakarta" }
+  },
+  {
+    "id": 14,
+    "name": "3D Modeling & Animation",
+    "category": "Design",
+    "image": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=400",
+    "provider": { "location": "Surabaya" }
+  },
+  {
+    "id": 15,
+    "name": "Email Marketing Specialist",
+    "category": "Marketing",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400",
+    "provider": { "location": "Jakarta" }
+  },
+  {
+    "id": 16,
+    "name": "Cloud Architecture (AWS)",
+    "category": "IT",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400",
+    "provider": { "location": "Bandung" }
+  },
+  {
+    "id": 17,
+    "name": "Photo Product Katalog",
+    "category": "Design",
+    "image": "https://images.unsplash.com/photo-1542744094-24638eff58bb?w=400",
+    "provider": { "location": "Surabaya" }
+  },
+  {
+    "id": 18,
+    "name": "Brand Identity Package",
+    "category": "Design",
+    "image": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=400",
+    "provider": { "location": "Jakarta" }
+  },
+  {
+    "id": 19,
+    "name": "Data Analyst Business",
+    "category": "IT",
+    "image": "https://images.unsplash.com/photo-1551288049-bbbda5366991?w=400",
+    "provider": { "location": "Bandung" }
+  },
+  {
+    "id": 20,
+    "name": "Influencer Management",
+    "category": "Marketing",
+    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=400",
+    "provider": { "location": "Surabaya" }
+  }
+]
